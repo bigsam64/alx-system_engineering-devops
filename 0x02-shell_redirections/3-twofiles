@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /egtc/passwd /etc/hosts
